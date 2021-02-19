@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+I am a student, but I can develop any projects.  
+My telegram: @VadimSimakin
+![](https://profile-counter.glitch.me/bauripalash/count.svg) 
 <!--
 **vsvad/vsvad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
