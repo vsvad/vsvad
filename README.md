@@ -1,6 +1,6 @@
 ### Hi there 👋
 I am a student, but I can develop any projects.  
-My telegram: @VadimSimakin. 
+My telegram: @VadimSimakin
 ### My profile see
 ![](https://profile-counter.glitch.me/vsvad/count.svg) 
 <!--
